@@ -1,0 +1,21 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "unlimited_map_memory",
+    "name": "Unlimited map memory",
+    "authors": [ "EM" ],
+    "description": "Adds a mutation which disables limit on map memory (this is achieved by setting map_memory_capacity_multiplier to a negative value)",
+    "dependencies": [ "dda" ],
+    "category": ""
+  },
+  {
+    "type": "mutation",
+    "id": "UNLIMITED_MAP_MEMORY",
+    "name": "Unlimited map memory",
+    "description": "Removes terrain memory limit",
+    "purifiable": false,
+    "points": 0,
+    "starting_trait": true,
+    "map_memory_capacity_multiplier": -1
+  }
+]
