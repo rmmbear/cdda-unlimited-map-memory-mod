@@ -1,5 +1,5 @@
 # Update: 2021/05/20
-This mod has been made **obsolete** for experimental builds of CD:DA as per https://github.com/CleverRaven/Cataclysm-DDA/pull/47253 
+This mod has been made **obsolete** for experimental builds of C:DDA as per https://github.com/CleverRaven/Cataclysm-DDA/pull/47253 
 (though it can still be used in previous stable releases).
 
 Same goes for [C:BN](https://github.com/cataclysmbnteam/Cataclysm-BN), which has gotten
